@@ -1,0 +1,124 @@
+{
+    "personal": {
+        "name": "Rayen Ouer",
+        "title": "Cloud Solutions Architect",
+        "intro": "I bring hands-on experience in cloud infrastructure, automation, and security. I thrive on continuous learning and innovative solutions.",
+        "qualities": {
+            "Efficient": "Bringing energy, productivity, and agility to every task.",
+            "Attentive": "Focusing on both big-picture solutions and minute details.",
+            "Flexible": "Adapting quickly to challenges and new technologies."
+        }
+    },
+    "skills": {
+        "technical": [
+            {
+                "name": "AWS",
+                "icon": "fab fa-aws"
+            },
+            {
+                "name": "Terraform",
+                "icon": "fas fa-code"
+            },
+            {
+                "name": "Docker",
+                "icon": "fab fa-docker"
+            },
+            {
+                "name": "Kubernetes",
+                "icon": "fas fa-cube"
+            },
+            {
+                "name": "CI/CD",
+                "icon": "fas fa-infinity"
+            },
+            {
+                "name": "Linux",
+                "icon": "fab fa-linux"
+            },
+            {
+                "name": "Python",
+                "icon": "fab fa-python"
+            },
+            {
+                "name": "Networking",
+                "icon": "fas fa-network-wired"
+            }
+        ],
+        "soft": [
+            "Communication",
+            "Problem-solving",
+            "Adaptability",
+            "Quick learner"
+        ]
+    },
+    "education": [
+        {
+            "institution": "Esprit University",
+            "location": "Tunis, Tunisia",
+            "degree": "Bachelor in IT Engineering",
+            "startDate": "September 2021",
+            "endDate": "Expected June 2025",
+            "description": "Focus on cloud computing, DevOps, and cybersecurity."
+        }
+    ],
+    "experience": [
+        {
+            "company": "Some Company",
+            "location": "Tunis, Tunisia",
+            "title": "Cloud Engineer Intern",
+            "startDate": "June 2024",
+            "endDate": "Present",
+            "description": "Worked on cloud infrastructure automation using Terraform and AWS services.",
+            "achievements": [
+                "Automated infrastructure deployment reducing setup time by 70%",
+                "Implemented monitoring and alerting with CloudWatch"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Portfolio Website",
+            "type": "Personal Project",
+            "date": "August 2025",
+            "description": "A portfolio website to showcase my projects and experience.",
+            "technologies": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS"
+            ],
+            "links": {
+                "github": "#",
+                "demo": "#"
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "title": "AWS Certified Solutions Architect - Associate",
+            "issuer": "Amazon Web Services",
+            "date": "July 2025",
+            "description": "Validated knowledge of designing and deploying scalable systems on AWS."
+        }
+    ],
+    "contact": {
+        "email": "your.email@example.com",
+        "linkedin": "https://linkedin.com/in/yourprofile",
+        "github": "https://github.com/yourusername"
+    },
+    "footer": "Rayen Ouer © 2025",
+    "colors": {
+        "primary": {
+            "start": "#667eea",
+            "end": "#764ba2"
+        },
+        "accent": {
+            "start": "#ffd89b",
+            "end": "#19547b"
+        },
+        "background": "#f8f9fa",
+        "text": {
+            "primary": "#333",
+            "secondary": "#666"
+        }
+    }
+}
